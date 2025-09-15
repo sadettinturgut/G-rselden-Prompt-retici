@@ -1,0 +1,5 @@
+{
+  "name": "Görselden AI Görüntü Prompt Üretici",
+  "description": "Yüklediğiniz bir görseli analiz ederek, benzer görseller oluşturmak için kullanabileceğiniz ayrıntılı AI görüntü istemleri (prompt) üretir. Resmi yükleyin, analiz etsin ve yaratıcı prompt'unuzu kopyalayın.",
+  "requestFramePermissions": []
+}
